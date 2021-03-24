@@ -1,0 +1,16 @@
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\bin\Debug\net5.0\Triangulo1.exe
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\bin\Debug\net5.0\Triangulo1.deps.json
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\bin\Debug\net5.0\Triangulo1.runtimeconfig.json
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\bin\Debug\net5.0\Triangulo1.runtimeconfig.dev.json
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\bin\Debug\net5.0\Triangulo1.dll
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\bin\Debug\net5.0\ref\Triangulo1.dll
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\bin\Debug\net5.0\Triangulo1.pdb
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\obj\Debug\net5.0\Triangulo1.csprojAssemblyReference.cache
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\obj\Debug\net5.0\Triangulo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\obj\Debug\net5.0\Triangulo1.AssemblyInfoInputs.cache
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\obj\Debug\net5.0\Triangulo1.AssemblyInfo.cs
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\obj\Debug\net5.0\Triangulo1.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\obj\Debug\net5.0\Triangulo1.dll
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\obj\Debug\net5.0\ref\Triangulo1.dll
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\obj\Debug\net5.0\Triangulo1.pdb
+D:\EJERCICIOS DE LOGICA\C#\Triangulo1\obj\Debug\net5.0\Triangulo1.genruntimeconfig.cache
